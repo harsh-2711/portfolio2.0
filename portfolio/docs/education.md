@@ -2,7 +2,7 @@
 title: Education
 ---
 
-I earned my stripes at the Dhirubhai Ambani Institute of Information and Communication Technology in Gandhinagar, India. 
+I earned my stripes at the `Dhirubhai Ambani Institute of Information and Communication Technology` in Gandhinagar, India. 
 
 - **Degree**: Honors in ICT with minors in CS
 - **GPA**: 3.5 out of 4

@@ -2,6 +2,12 @@
 title: Lyearn
 ---
 
+```curl
+curl https://harsh-patel.in/v1/workExperience?company=lyearn& \
+	start=01-2021&end=01-2024 \
+	-u awesome_friend
+```
+
 **Senior Product Engineer** | Jan 2021 - Jan 2024
 
 At Lyearn, I donned my product engineering hat and set out to revolutionize how we approach education technology.

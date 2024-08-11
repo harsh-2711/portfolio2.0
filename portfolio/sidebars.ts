@@ -12,17 +12,17 @@ const sidebars: SidebarsConfig = {
       ],
       collapsed: false,
     },
-    {
-      type: 'category',
-      label: 'Work Experience',
-      items: [
-        'superr',
-        'lyearn',
-        'headout',
-        'open_source'
-      ],
-      collapsed: false,
-    },
+    // {
+    //   type: 'category',
+    //   label: 'Work Experience',
+    //   items: [
+    //     'superr',
+    //     'lyearn',
+    //     'headout',
+    //     'open_source'
+    //   ],
+    //   collapsed: false,
+    // },
     {
       type: 'category',
       label: 'Projects',
