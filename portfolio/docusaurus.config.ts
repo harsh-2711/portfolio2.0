@@ -64,11 +64,10 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/social-card.jpg', // twitter:image
     navbar: {
-      title: 'mgod',
+      title: 'Harsh Patel',
       logo: {
-        alt: 'mgod',
+        alt: 'progress-logo',
         src: 'img/logo-with-text.svg',
       },
       items: [
