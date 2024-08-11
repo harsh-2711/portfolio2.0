@@ -1,0 +1,42 @@
+name: Build Docs
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'portfolio/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-docs:
+    name: Build Docs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: ./portfolio/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: ./portfolio
+
+      - name: Build website
+        run: npm run build
+        working-directory: ./portfolio
+
+      # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./portfolio/build
+          user_name: harsh-2711
+          user_email: harsh.2711.patel@gmail.com
