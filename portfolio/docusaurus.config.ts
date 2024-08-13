@@ -68,7 +68,8 @@ const config: Config = {
       title: 'Harsh Patel',
       logo: {
         alt: 'progress-logo',
-        src: 'img/logo-with-text.svg',
+        src: 'img/logo.svg',
+        srcDark: 'img/logo-white.svg'
       },
       items: [
         {

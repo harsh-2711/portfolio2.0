@@ -8,6 +8,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'about',
         'education',
+        'beliefs',
       ],
       collapsed: false,
     },

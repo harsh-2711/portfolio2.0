@@ -2,7 +2,7 @@
 title: Open Source
 ---
 
-## mgod - MongoDB's New Best Friend
+## mgod - MongoDB ODM for GoLang
 
 Developed and maintaining "mgod", an open-source MongoDB ODM for Go models. It's like giving Go developers a superpower to interact with MongoDB.
 
@@ -19,6 +19,11 @@ ___
 `Impact`
 <div padding-top="4px;" />
 Reduces new API development time by 25%
+___
+
+`Blog`
+<div padding-top="4px;" />
+[blog.lyearn.com](https://blog.lyearn.com/introducing-mgod-golang-mongodb-odm-for-seamless-schema-integration-8d38030f87ae)
 ___
 
 `GitHub`
@@ -76,7 +81,7 @@ ___
 <div padding-top="4px;" />
 [github.com/harsh-2711/android-search-ui](https://github.com/harsh-2711/android-search-ui)
 
-## FOSSAsia (Google Summer of Code)
+## FOSSAsia - Google Summer of Code
 
 Developed software interfaces for PSLab Hardware device sensors and created a fully functional Logic Analyzer using background threads and graphing tools, enhancing the capabilities of this open-source lab equipment.
 

@@ -16,10 +16,3 @@ I'm currently shaping the future of learning at Superr, where we're building cut
 </div>
 
 Gujarat, India
-
-### Core Beliefs
-My journey in tech has been driven by three core beliefs:
-
-1. Ideas trump opinions
-2. Results matter more than effort
-3. Quality craftsmanship is key
