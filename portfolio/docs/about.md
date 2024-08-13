@@ -2,15 +2,22 @@
 title: About
 ---
 
-Hey friend 👋 My name is Harsh Patel.
-<br />
-I'm a full-stack engineer based in India. I'm a zero-to-one builder who loves creating products and businesses that didn't exist before.
+Hey friend, I'm Harsh Patel. I'm a software engineer based in India. I'm a zero-to-one builder who loves creating products and businesses that didn't exist before.
 
-### Where I work?
+<br />
 I'm currently shaping the future of learning at Superr, where we're building cutting-edge ed-tech products for the next generation.
 
+### Where?
 
-### My beliefs
+<div class="custom-cover-image">
+
+![Ahmedabad](/img/my-location.png)
+
+</div>
+
+Gujarat, India
+
+### Core Beliefs
 My journey in tech has been driven by three core beliefs:
 
 1. Ideas trump opinions

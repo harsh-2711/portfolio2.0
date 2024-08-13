@@ -1151,6 +1151,24 @@ button[class^='toggleButton'] {
   @apply body-short-02;
 }
 
+.custom-cover-image img {
+  border-radius: 10px;
+  width: 640px;
+  height: 320px;
+  object-fit: cover;
+}
+
+.custom-scaled-image img {
+  border-radius: 10px;
+  width: 640px;
+  height: 320px;
+  object-fit: contain;
+}
+
+.social-icon {
+  margin-right: 16px;
+}
+
 [data-theme='dark'] {
   .markdown li,
   .markdown h1,
