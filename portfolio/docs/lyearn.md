@@ -124,6 +124,14 @@ As Lyearn grew, we faced new challenges in scalability and performance. I led se
 Well the best way to experience it is by trying it out 😉 [lyearn.com](https://www.lyearn.com/signup).
 :::
 2. **Database and Search Optimization:** I maintained authoritative expertise on Elasticsearch, optimizing query performance and developing custom Elasticsearch plugins. This resulted in a **37%** improvement in query response time. I also stabilized Elasticsearch by adding a distributed locking gatekeeper, adding a node level cache and partitions for better performance.
+<br />
+<div class="custom-cover-image">
+
+![lyearn-saml](/img/lyearn-es-improvements.png)
+
+</div>
+<br />
+
 3. **Load Testing:** I conducted extensive load tests, stress tests and SOAK tests, ensuring our system could handle high-stress scenarios.
 
 ### Architectural Transformation
