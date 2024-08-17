@@ -11,7 +11,7 @@ GET /v1/workExperience?company=headout
 
 ```js
 {
-	"position": "Software Engineer Intern",
+	"role": "Software Engineer Intern",
 	"startDate": "01-05-2020",
 	"endDate": "20-12-2020",
 	"skills": [

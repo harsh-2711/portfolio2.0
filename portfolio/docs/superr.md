@@ -11,7 +11,7 @@ GET /v1/workExperience?company=superr
 
 ```js
 {
-	"position": "Lead Software Engineer",
+	"role": "Lead Software Engineer",
 	"startDate": "15-01-2024",
 	"skills": [
 		"PostgreSQL",
@@ -34,7 +34,7 @@ At Superr, I've taken on the role of leading a team of a engineers, focusing on 
 In addition to system architecture, I've been heavily involved in database optimization. By implementing SQL database optimizations, we've significantly improved our system's ability to handle peak load writes efficiently. This enhancement has been particularly crucial during high-traffic periods, ensuring consistent performance for our users.
 
 ### AI Initiatives
-One of the most exciting aspects of my role has been spearheading AI initiatives. I've led the development of multiple prototypes for content generation assistants and RAG (Retrieval-Augmented Generation) pipelines. Through these efforts, we've managed to improve context-specific generation accuracy by almost **68%**, revolutionizing our content creation process.
+One of the most exciting aspects of my role has been spearheading AI initiatives. I've led the development of multiple prototypes for content generation assistants and RAG (Retrieval-Augmented Generation) pipelines. Through these efforts, we've managed to improve context-specific generation accuracy for our content creation process by almost **68%**.
 
 :::success
 Our AI-driven content generation has not only improved accuracy but also significantly reduced the time required for creating educational materials, allowing educators to focus more on student interaction.
